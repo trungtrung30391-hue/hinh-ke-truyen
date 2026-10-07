@@ -1,8 +1,8 @@
 # Người Ai Cập đã xây kim tự tháp như thế nào?
 
-Bộ **20 ảnh giấy cắt dán mới**, tỷ lệ 16:9, kể từ công trường cổ đại đến những khám phá hiện đại. Giấy xé chồng lớp, tranh khắc halftone đen–sepia, điểm vàng son và đỏ son. Kịch bản dự kiến **4 phút**, mỗi cảnh 12 giây; chưa có tệp giọng đọc hay phim hoàn chỉnh.
+Bộ **20 ảnh giấy cắt dán mới**, tỷ lệ 16:9, kể từ công trường cổ đại đến những khám phá hiện đại. Giấy xé chồng lớp, tranh khắc halftone đen–sepia, điểm vàng son và đỏ son. Kịch bản dự kiến **4 phút**, mỗi cảnh 12 giây; đã có phim 4 phút ghép giọng đọc AI tiếng Việt và phụ đề, chưa thêm nhạc nền.
 
-**[Xem phim nháp4 phút](collage-20/video/README.md)** · **[Xem đầy đủ20 ảnh collage mới](collage-20/README.md)**
+**[Phim 4 phút đã ghép giọng đọc](collage-20/voice/README.md)** · **[Xem đầy đủ20 ảnh collage mới](collage-20/README.md)**
 
 ## Mẫu mới: phim tài liệu bằng giấy cắt dán
 

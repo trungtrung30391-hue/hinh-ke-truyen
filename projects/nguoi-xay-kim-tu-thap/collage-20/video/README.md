@@ -1,5 +1,7 @@
 # Phim nháp kim tự tháp — 4 phút
 
+**Đã có [bản phim ghép giọng đọc tiếng Việt](../voice/README.md)** · [Tải MP3 giọng đọc](../voice/loi-doc-tieng-viet-4-phut.mp3).
+
 ![Xem trước chuyển động giấy](preview.gif)
 
 [Xem phim nháp 4 phút](phim-nhap-4-phut.mp4) · [Xem nhanh 36 giây](xem-nhanh-36-giay.mp4) · [Ảnh đại diện](poster.png) · [Phụ đề SRT](phu-de-film-nhap.srt)
