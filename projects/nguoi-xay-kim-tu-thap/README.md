@@ -2,6 +2,14 @@
 
 Bộ 20 ảnh minh họa riêng, tỷ lệ 16:9, kể từ công trường cổ đại đến những khám phá hiện đại. Kịch bản dự kiến **4 phút**, mỗi cảnh 12 giây. Bộ này gồm ảnh và tài liệu dựng; **chưa có tệp giọng đọc hay video hoàn chỉnh**.
 
+## Mẫu mới: phim tài liệu bằng giấy cắt dán
+
+[Xem mẫu collage 12 giây](collage/README.md) với giấy dó, tranh in halftone đen–sepia, vàng son và dấu đỏ son. Các mảnh giấy trượt, xoay và chồng lên nhau thành một trang sổ tay lịch sử. Mẫu có phụ đề tiếng Việt, chưa có âm thanh.
+
+![Mẫu collage giấy chuyển động](collage/preview/09-collage-motion-12s.gif)
+
+[Tải MP4 720p](collage/preview/09-collage-motion-12s.mp4) · [Mở GIF](collage/preview/09-collage-motion-12s.gif) · [Tải các lớp PNG](collage/assets)
+
 ## Xem và tải
 
 - [Tải ZIP toàn bộ nhánh](https://github.com/trungtrung30391-hue/hinh-ke-truyen/archive/refs/heads/images/pyramids-v6-20261007.zip)
