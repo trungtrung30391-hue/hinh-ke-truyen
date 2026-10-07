@@ -23,6 +23,8 @@ Trong ZIP, mở thư mục `projects/nguoi-xay-kim-tu-thap` để lấy ảnh v�
 
 ## 20 ảnh theo thứ tự
 
+[Xem đủ 20 ảnh trên một trang](gallery-20-anh.md) — kéo xuống để xem lần lượt từng cảnh.
+
 | Cảnh | Thời gian dự kiến | Mở ảnh PNG |
 | --- | --- | --- |
 | 01 | 00:00–00:12 | [Câu hỏi giữa sa mạc](images/01-giza-hom-nay.png) |
