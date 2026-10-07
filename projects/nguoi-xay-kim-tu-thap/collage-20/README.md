@@ -2,9 +2,9 @@
 
 20 ảnh riêng được dựng bằng các lớp giấy cắt dán, theo phong cách giấy dó và giấy báo ố vàng, in cổ halftone đen–sepia, điểm vàng son và đỏ son. Mỗi ảnh là một cảnh; bấm “Mở PNG” để xem hoặc tải ảnh gốc.
 
-Đây là bộ ảnh tĩnh. [Mẫu chuyển động 12 giây](../collage/README.md) minh họa cách các lớp giấy trượt, xoay và chồng lên nhau.
+**[Xem bản phim nháp4 phút, đủ20 cảnh](video/README.md)** — trang giấy trượt và xoay, có phụ đề tiếng Việt. [Mẫu chuyển động12 giây](../collage/README.md) minh họa các miếng giấy tách lớp.
 
-[Phong cách](phong-cach.md) · [Prompt ảnh mới](prompts/) · [Prompt chuyển động](motion-prompts/) · [Lời dẫn](../loi-dan.txt) · [Phụ đề SRT](../phu-de.srt)
+[Phong cách](phong-cach.md) · [Prompt ảnh mới](prompts/) · [Prompt chuyển động](motion-prompts/) · [Lời dẫn](../loi-dan.txt) · [Phụ đề của phim nháp](video/phu-de-film-nhap.srt)
 
 ## Cảnh 01 — Câu hỏi giữa sa mạc
 

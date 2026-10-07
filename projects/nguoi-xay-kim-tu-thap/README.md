@@ -2,7 +2,7 @@
 
 Bộ **20 ảnh giấy cắt dán mới**, tỷ lệ 16:9, kể từ công trường cổ đại đến những khám phá hiện đại. Giấy xé chồng lớp, tranh khắc halftone đen–sepia, điểm vàng son và đỏ son. Kịch bản dự kiến **4 phút**, mỗi cảnh 12 giây; chưa có tệp giọng đọc hay phim hoàn chỉnh.
 
-**[Xem đầy đủ 20 ảnh collage mới trên một trang](collage-20/README.md)**
+**[Xem phim nháp4 phút](collage-20/video/README.md)** · **[Xem đầy đủ20 ảnh collage mới](collage-20/README.md)**
 
 ## Mẫu mới: phim tài liệu bằng giấy cắt dán
 
@@ -17,7 +17,7 @@ Bộ **20 ảnh giấy cắt dán mới**, tỷ lệ 16:9, kể từ công trư�
 - [Tải ZIP toàn bộ nhánh](https://github.com/trungtrung30391-hue/hinh-ke-truyen/archive/refs/heads/images/pyramids-v6-20261007.zip)
 - [Kịch bản 20 cảnh và hướng dẫn CapCut](kich-ban-20-canh.md)
 - [Lời dẫn tiếng Việt](loi-dan.txt)
-- [Phụ đề SRT](phu-de.srt)
+- [Phụ đề SRT của phim nháp](collage-20/video/phu-de-film-nhap.srt)
 
 Trong ZIP, mở thư mục `projects/nguoi-xay-kim-tu-thap/collage-20/images` để lấy 20 PNG mới; tài liệu nằm trong thư mục dự án. Bấm tên cảnh bên dưới để mở từng ảnh. Trong trang ảnh trên GitHub, chọn **Download raw file** để tải PNG gốc.
 

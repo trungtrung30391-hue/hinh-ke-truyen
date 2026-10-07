@@ -17,7 +17,7 @@ Câu hỏi mở đầu → sông Nile và sự phát triển kỹ thuật → c�
 
 ## Visual Lock
 
-16:9; giấy dó, giấy báo ố vàng và tranh in cổ dưới dạng giấy cắt dán. Mép xé rõ, giấy chồng lớp, vệt hồ, sợi giấy, nếp nhăn và vết ố; mực khắc đen–sepia và halftone đậm; điểm vàng son và dấu đỏ son. Ánh sáng đồ họa phẳng, bóng nhẹ giữa các lớp giấy; mọi chủ thể là tranh in trên mảnh giấy. Mỗi ảnh là một cảnh mạch lạc và một khoảnh khắc. Không chữ, logo, watermark, storyboard, grid, split screen hoặc multi-panel. Xem [bộ20ảnhcollage mới](collage-20/README.md) và [briefphong cách](collage-20/phong-cach.md).
+16:9; giấy dó, giấy báo ố vàng và tranh in cổ dưới dạng giấy cắt dán. Mép xé rõ, giấy chồng lớp, vệt hồ, sợi giấy, nếp nhăn và vết ố; mực khắc đen–sepia và halftone đậm; điểm vàng son và dấu đỏ son. Ánh sáng đồ họa phẳng, bóng nhẹ giữa các lớp giấy; mọi chủ thể là tranh in trên mảnh giấy. Mỗi ảnh là một cảnh mạch lạc và một khoảnh khắc. Không chữ, logo, watermark, storyboard, grid, split screen hoặc multi-panel. Xem [bộ20 ảnh collage mới](collage-20/README.md) và [brief phong cách](collage-20/phong-cach.md).
 
 ## AI Voice Direction
 
@@ -57,7 +57,7 @@ Keep the reference's bold tactile torn edges, paper fibres and fine engraved hal
 
 Six-second motion-graphics shot of the supplied Giza paper-collage page. Keep printed architecture and visitors rigid. The large engraved pyramid scrap slides in from the right and settles with a small rotation; the ragged ground layer shifts left a few pixels while visitor cutouts enter as physical paper pieces. Quantize paper positions at12 poses per second. A small vermilion seal drops onto the margin at4s with one gentle tap. Flat graphic illumination, real paper-edge shadows, black-sepia halftone, warm do-paper fibres and muted gold flecks. No newly synthesized walking limbs, no geometry change, no zoom on a full photographic scene, no text, no morphing, one coherent moment only.
 
-Đây là prompt đoạn thử chuyển động giấy 6 giây. Timeline lời dẫn/SRT vẫn dùng ảnh mỗi cảnh12giây; khi dựng phim, khớp lại thời lượng clip với giọng đọc.
+Đây là prompt đoạn thử chuyển động giấy 6 giây. Timeline lời dẫn/SRT vẫn dùng ảnh mỗi cảnh12 giây; khi dựng phim, khớp lại thời lượng clip với giọng đọc.
 
 ### Cảnh 02 — Dòng sông nuôi công trường
 
@@ -82,7 +82,7 @@ Rigging correction: Boat tied at landing, no raised sail. A short furled square 
 
 Six-second paper-collage motion-graphics shot based on the supplied still. Keep every person, tool and masonry form as immutable printed art on its own ragged paper fragment. At0.3s the background scenery card slides gently into position and settles with a small rotation; at1.1s the foreground cutout glides in and overlaps it with a tactile paper shadow. Drift the foreground card less than3 percent over the remaining shot, quantized at12 paper poses per second. The small red seal taps onto the margin near4s. One coherent scene, flat graphic illumination, no morphing, no newly generated limbs, no photorealistic animation, no text, no camera orbit, no geometry change. Maintain sepia, black halftone, old do-paper and restrained gold/red accents.
 
-Đây là prompt đoạn thử chuyển động giấy 6 giây. Timeline lời dẫn/SRT vẫn dùng ảnh mỗi cảnh12giây; khi dựng phim, khớp lại thời lượng clip với giọng đọc.
+Đây là prompt đoạn thử chuyển động giấy 6 giây. Timeline lời dẫn/SRT vẫn dùng ảnh mỗi cảnh12 giây; khi dựng phim, khớp lại thời lượng clip với giọng đọc.
 
 ### Cảnh 03 — Khởi đầu bằng những bậc đá
 
@@ -104,7 +104,7 @@ REDRAW THE REFERENCE AS A NEW PAGE OF THE SAME PAPER-COLLAGE HISTORY NOTEBOOK. P
 
 Six-second paper-collage motion-graphics shot based on the supplied still. Keep every person, tool and masonry form as immutable printed art on its own ragged paper fragment. At0.3s the background scenery card slides gently into position and settles with a small rotation; at1.1s the foreground cutout glides in and overlaps it with a tactile paper shadow. Drift the foreground card less than3 percent over the remaining shot, quantized at12 paper poses per second. The small red seal taps onto the margin near4s. One coherent scene, flat graphic illumination, no morphing, no newly generated limbs, no photorealistic animation, no text, no camera orbit, no geometry change. Maintain sepia, black halftone, old do-paper and restrained gold/red accents.
 
-Đây là prompt đoạn thử chuyển động giấy 6 giây. Timeline lời dẫn/SRT vẫn dùng ảnh mỗi cảnh12giây; khi dựng phim, khớp lại thời lượng clip với giọng đọc.
+Đây là prompt đoạn thử chuyển động giấy 6 giây. Timeline lời dẫn/SRT vẫn dùng ảnh mỗi cảnh12 giây; khi dựng phim, khớp lại thời lượng clip với giọng đọc.
 
 ### Cảnh 04 — Những lần thử của Sneferu
 
@@ -129,7 +129,7 @@ Architecture correction: front-on Bent Pyramid with visible bilateral half-heigh
 
 Six-second paper-collage motion-graphics shot based on the supplied still. Keep every person, tool and masonry form as immutable printed art on its own ragged paper fragment. At0.3s the background scenery card slides gently into position and settles with a small rotation; at1.1s the foreground cutout glides in and overlaps it with a tactile paper shadow. Drift the foreground card less than3 percent over the remaining shot, quantized at12 paper poses per second. The small red seal taps onto the margin near4s. One coherent scene, flat graphic illumination, no morphing, no newly generated limbs, no photorealistic animation, no text, no camera orbit, no geometry change. Maintain sepia, black halftone, old do-paper and restrained gold/red accents.
 
-Đây là prompt đoạn thử chuyển động giấy 6 giây. Timeline lời dẫn/SRT vẫn dùng ảnh mỗi cảnh12giây; khi dựng phim, khớp lại thời lượng clip với giọng đọc.
+Đây là prompt đoạn thử chuyển động giấy 6 giây. Timeline lời dẫn/SRT vẫn dùng ảnh mỗi cảnh12 giây; khi dựng phim, khớp lại thời lượng clip với giọng đọc.
 
 ### Cảnh 05 — Công trường của Khufu
 
@@ -151,7 +151,7 @@ REDRAW THE REFERENCE AS A NEW PAGE OF THE SAME PAPER-COLLAGE HISTORY NOTEBOOK. P
 
 Six-second paper-collage motion-graphics shot based on the supplied still. Keep every person, tool and masonry form as immutable printed art on its own ragged paper fragment. At0.3s the background scenery card slides gently into position and settles with a small rotation; at1.1s the foreground cutout glides in and overlaps it with a tactile paper shadow. Drift the foreground card less than3 percent over the remaining shot, quantized at12 paper poses per second. The small red seal taps onto the margin near4s. One coherent scene, flat graphic illumination, no morphing, no newly generated limbs, no photorealistic animation, no text, no camera orbit, no geometry change. Maintain sepia, black halftone, old do-paper and restrained gold/red accents.
 
-Đây là prompt đoạn thử chuyển động giấy 6 giây. Timeline lời dẫn/SRT vẫn dùng ảnh mỗi cảnh12giây; khi dựng phim, khớp lại thời lượng clip với giọng đọc.
+Đây là prompt đoạn thử chuyển động giấy 6 giây. Timeline lời dẫn/SRT vẫn dùng ảnh mỗi cảnh12 giây; khi dựng phim, khớp lại thời lượng clip với giọng đọc.
 
 ### Cảnh 06 — Bắt đầu từ một đường thẳng
 
@@ -173,7 +173,7 @@ VISUAL LOCK: This must unmistakably be an assembled physical cut-paper artwork, 
 
 Six-second horizontal 16:9 animated paper-collage scene of an anonymous Egyptian foreman measuring the Great Pyramid's level foundation during Khufu's era. Preserve all reference silhouettes, halftone ink, aged-paper fibres, ragged edges, palette and relative historical scale. The foundation scrap slides a few pixels upward and settles in the first second. The foreman's paper cutout pivots two degrees at its lower edge while a tiny separately printed hand-and-peg piece shifts once toward the taut measuring cord; no fluid human animation. A narrow sand scrap drifts laterally a few pixels underneath, creating layered paper parallax. The small vermilion abstract seal taps down once near second four. Keep rope straight and attached, wooden pegs stable after the adjustment. Fixed overhead graphic camera with a very slow two-percent push; stepped twelve-fps handmade stop-motion cadence. Physical torn-paper translation and rotation only, no photographic movement, no morphing, no modern tools, no new figures, no readable text, no panels.
 
-Đây là prompt đoạn thử chuyển động giấy 6 giây. Timeline lời dẫn/SRT vẫn dùng ảnh mỗi cảnh12giây; khi dựng phim, khớp lại thời lượng clip với giọng đọc.
+Đây là prompt đoạn thử chuyển động giấy 6 giây. Timeline lời dẫn/SRT vẫn dùng ảnh mỗi cảnh12 giây; khi dựng phim, khớp lại thời lượng clip với giọng đọc.
 
 ### Cảnh 07 — Đá đến từ đâu?
 
@@ -195,7 +195,7 @@ VISUAL LOCK: This must unmistakably be an assembled physical cut-paper artwork, 
 
 Six-second horizontal 16:9 animated paper-collage scene of a quarryman beside a partly separated local limestone block near Giza in Khufu's era. Preserve all reference silhouettes, halftone ink, aged-paper fibres, ragged edges, palette and scale. The large quarry-face engraving scrap slides down slightly and settles; the worker paper cutout makes one small stiff paper-hinge arm pivot toward the cut channel, followed by two tiny stone-dust paper shreds dropping a few pixels. The block stays geometrically unchanged, visibly attached along its cut channel. Foreground ground scraps drift right at a different speed from the rock-face layer. The small vermilion abstract seal presses once near second four. Fixed graphic camera with a subtle two-percent pullback; stepped twelve-fps handmade stop-motion cadence. Animate translations and paper rotations, not realistic muscle motion. No explosive breaking rock, no new tools, no granite, no modern machinery, no readable text, no panels, no changing faces.
 
-Đây là prompt đoạn thử chuyển động giấy 6 giây. Timeline lời dẫn/SRT vẫn dùng ảnh mỗi cảnh12giây; khi dựng phim, khớp lại thời lượng clip với giọng đọc.
+Đây là prompt đoạn thử chuyển động giấy 6 giây. Timeline lời dẫn/SRT vẫn dùng ảnh mỗi cảnh12 giây; khi dựng phim, khớp lại thời lượng clip với giọng đọc.
 
 ### Cảnh 08 — Đường thủy của những khối đá
 
@@ -217,7 +217,7 @@ VISUAL LOCK: This must unmistakably be an assembled physical cut-paper artwork, 
 
 Six-second horizontal 16:9 animated paper-collage scene of a plausible Khufu-era Nile transport boat carrying a few securely tied limestone blocks toward a simple landing. Preserve all reference silhouettes, halftone ink, aged-paper fibres, ragged edges, palette and scale. Three broad torn printed-river strips slide slowly past one another in alternating directions. The complete boat-and-cargo cutout drifts a small distance toward the bank with one degree of restrained paper rocking; cargo remains firmly attached and never changes size. One oar cutout pivots once at a paper hinge, mooring rope remains coherent. The bank scrap moves more slowly behind the boat. A small vermilion abstract seal lands near second four. Fixed graphic camera with a very slight lateral drift; stepped twelve-fps handmade stop-motion cadence. Use tangible paper translations and rotations, not liquid photorealistic water or fluid walking figures. No engines, giant cargo, extra crew, readable text, morphing, panels or modern vessels.
 
-Đây là prompt đoạn thử chuyển động giấy 6 giây. Timeline lời dẫn/SRT vẫn dùng ảnh mỗi cảnh12giây; khi dựng phim, khớp lại thời lượng clip với giọng đọc.
+Đây là prompt đoạn thử chuyển động giấy 6 giây. Timeline lời dẫn/SRT vẫn dùng ảnh mỗi cảnh12 giây; khi dựng phim, khớp lại thời lượng clip với giọng đọc.
 
 ### Cảnh 09 — Sức kéo và xe trượt
 
@@ -239,7 +239,7 @@ VISUAL LOCK: This must unmistakably be an assembled physical cut-paper artwork, 
 
 Six-second horizontal 16:9 animated paper-collage illustration of a Khufu-era crew pulling one limestone block on a flat-runner wooden sledge across sandy ground near Giza. Preserve all reference silhouettes, halftone ink, aged-paper fibres, ragged edges, palette, rope attachments and relative scale. Workers are ahead to the left and cargo behind to the right. Translate the workers, taut connecting ropes and sledge as a coordinated paper assembly a small distance LEFT, using three discrete paper slides with a brief settling pause each time. Give the worker paper fragments a tiny two-degree rocking pivot without changing their printed anatomy. Ground strips move a little right beneath them; distant incomplete masonry moves least, producing flat layer parallax. Keep the foreman steady; he has no whip. Small vermilion abstract seal taps the margin near second four. Fixed graphic camera, twelve-fps tactile stop-motion cadence. Paper cutout movement only; no photorealistic body animation, no wheels, rollers, logs, chains, new objects, text, panels or impossible floating stone.
 
-Đây là prompt đoạn thử chuyển động giấy 6 giây. Timeline lời dẫn/SRT vẫn dùng ảnh mỗi cảnh12giây; khi dựng phim, khớp lại thời lượng clip với giọng đọc.
+Đây là prompt đoạn thử chuyển động giấy 6 giây. Timeline lời dẫn/SRT vẫn dùng ảnh mỗi cảnh12 giây; khi dựng phim, khớp lại thời lượng clip với giọng đọc.
 
 ### Cảnh 10 — Bài toán nâng đá
 
@@ -261,7 +261,7 @@ VISUAL LOCK: This must unmistakably be an assembled physical cut-paper artwork, 
 
 Six-second horizontal 16:9 animated paper-collage illustration of ONE hypothetical short low straight ramp at Khufu's unfinished pyramid. Preserve reference geometry, halftone ink, aged-paper fibres, torn edges, palette and scale. The ramp rises from lower left to upper right. The workers remain HIGHER and AHEAD at upper right, with taut ropes connecting DOWN to the one sledged block behind them at lower left. Slide this worker-rope-sledge assembly a very small distance UPHILL toward upper right in two deliberate steps; do not move the cargo beyond the low course reached by the short ramp. The ramp strip and masonry scrap remain rigid, with only a tiny differing sideways shift for paper parallax. A small vermilion abstract seal presses once near second four. Fixed graphic camera with a slight two-percent push; twelve-fps handmade stop-motion cadence, stiff cutout pivots and translations rather than fluid cinematic animation. No construction completion, no summit ramp, wheels, rollers, cranes, flying blocks, alternative ramp models, cutaway, readable text, panels or changing silhouettes.
 
-Đây là prompt đoạn thử chuyển động giấy 6 giây. Timeline lời dẫn/SRT vẫn dùng ảnh mỗi cảnh12giây; khi dựng phim, khớp lại thời lượng clip với giọng đọc.
+Đây là prompt đoạn thử chuyển động giấy 6 giây. Timeline lời dẫn/SRT vẫn dùng ảnh mỗi cảnh12 giây; khi dựng phim, khớp lại thời lượng clip với giọng đọc.
 
 ### Cảnh 11 — Những người có tổ đội
 
@@ -289,7 +289,7 @@ Animate the foreman cutout entering by a5percent left-to-right paper slide and a
 
 Animate physical torn paper layers and paste shadows, the living pages of a historical notebook. Use a tactile 12fps stepped stopmotion cadence inside 24fps output, restrained planar moves, tiny rotations and layer overlap. Slow virtual rostrum-camera push of at most 2 percent, no live-action camera shake. Handmade do-paper fibres, yellowed antique engraving and newsprint, sepia browns and black ink, STRONG halftone, restrained gold margin flecks, vermilion abstract seal taps once near a margin around second 4.5. Flatgraphic light, no photoreal faces. Preserve architecture, tools and exact paper appearance, no warping, no new objects, no readable text/hieroglyphs/logos/watermarks; single-scene composition, one moment only, one image, no storyboard, no grid, no split screen, no multi-panel layout. No audio or burned subtitles required. End on a settled assembled scene.
 
-Đây là prompt đoạn thử chuyển động giấy 6 giây. Timeline lời dẫn/SRT vẫn dùng ảnh mỗi cảnh12giây; khi dựng phim, khớp lại thời lượng clip với giọng đọc.
+Đây là prompt đoạn thử chuyển động giấy 6 giây. Timeline lời dẫn/SRT vẫn dùng ảnh mỗi cảnh12 giây; khi dựng phim, khớp lại thời lượng clip với giọng đọc.
 
 ### Cảnh 12 — Bánh mì phía sau kỳ quan
 
@@ -317,7 +317,7 @@ Slide the group of seated-worker paper pieces gently in from the left while the 
 
 Animate physical torn paper layers and paste shadows, the living pages of a historical notebook. Use a tactile 12fps stepped stopmotion cadence inside 24fps output, restrained planar moves, tiny rotations and layer overlap. Slow virtual rostrum-camera push of at most 2 percent, no live-action camera shake. Handmade do-paper fibres, yellowed antique engraving and newsprint, sepia browns and black ink, STRONG halftone, restrained gold margin flecks, vermilion abstract seal taps once near a margin around second 4.5. Flatgraphic light, no photoreal faces. Preserve architecture, tools and exact paper appearance, no warping, no new objects, no readable text/hieroglyphs/logos/watermarks; single-scene composition, one moment only, one image, no storyboard, no grid, no split screen, no multi-panel layout. No audio or burned subtitles required. End on a settled assembled scene.
 
-Đây là prompt đoạn thử chuyển động giấy 6 giây. Timeline lời dẫn/SRT vẫn dùng ảnh mỗi cảnh12giây; khi dựng phim, khớp lại thời lượng clip với giọng đọc.
+Đây là prompt đoạn thử chuyển động giấy 6 giây. Timeline lời dẫn/SRT vẫn dùng ảnh mỗi cảnh12 giây; khi dựng phim, khớp lại thời lượng clip với giọng đọc.
 
 ### Cảnh 13 — Những gian phòng trong lòng đá
 
@@ -345,7 +345,7 @@ Begin with the rear granite-wall engraving pasted in place; side-wall and ceilin
 
 Animate physical torn paper layers and paste shadows, the living pages of a historical notebook. Use a tactile 12fps stepped stopmotion cadence inside 24fps output, restrained planar moves, tiny rotations and layer overlap. Slow virtual rostrum-camera push of at most 2 percent, no live-action camera shake. Handmade do-paper fibres, yellowed antique engraving and newsprint, sepia browns and black ink, STRONG halftone, restrained gold margin flecks, vermilion abstract seal taps once near a margin around second 4.5. Flatgraphic light, no photoreal faces. Preserve architecture, tools and exact paper appearance, no warping, no new objects, no readable text/hieroglyphs/logos/watermarks; single-scene composition, one moment only, one image, no storyboard, no grid, no split screen, no multi-panel layout. No audio or burned subtitles required. End on a settled assembled scene.
 
-Đây là prompt đoạn thử chuyển động giấy 6 giây. Timeline lời dẫn/SRT vẫn dùng ảnh mỗi cảnh12giây; khi dựng phim, khớp lại thời lượng clip với giọng đọc.
+Đây là prompt đoạn thử chuyển động giấy 6 giây. Timeline lời dẫn/SRT vẫn dùng ảnh mỗi cảnh12 giây; khi dựng phim, khớp lại thời lượng clip với giọng đọc.
 
 ### Cảnh 14 — Khi kim tự tháp còn trắng
 
@@ -373,7 +373,7 @@ The huge smooth-white Khufu pyramid clipping slides upward from the lower edge b
 
 Animate physical torn paper layers and paste shadows, the living pages of a historical notebook. Use a tactile 12fps stepped stopmotion cadence inside 24fps output, restrained planar moves, tiny rotations and layer overlap. Slow virtual rostrum-camera push of at most 2 percent, no live-action camera shake. Handmade do-paper fibres, yellowed antique engraving and newsprint, sepia browns and black ink, STRONG halftone, restrained gold margin flecks, vermilion abstract seal taps once near a margin around second 4.5. Flatgraphic light, no photoreal faces. Preserve architecture, tools and exact paper appearance, no warping, no new objects, no readable text/hieroglyphs/logos/watermarks; single-scene composition, one moment only, one image, no storyboard, no grid, no split screen, no multi-panel layout. No audio or burned subtitles required. End on a settled assembled scene.
 
-Đây là prompt đoạn thử chuyển động giấy 6 giây. Timeline lời dẫn/SRT vẫn dùng ảnh mỗi cảnh12giây; khi dựng phim, khớp lại thời lượng clip với giọng đọc.
+Đây là prompt đoạn thử chuyển động giấy 6 giây. Timeline lời dẫn/SRT vẫn dùng ảnh mỗi cảnh12 giây; khi dựng phim, khớp lại thời lượng clip với giọng đọc.
 
 ### Cảnh 15 — Kỳ quan chưa từng biến mất
 
@@ -401,7 +401,7 @@ The traveler paper silhouette slips in from lower left and pivots one degree int
 
 Animate physical torn paper layers and paste shadows, the living pages of a historical notebook. Use a tactile 12fps stepped stopmotion cadence inside 24fps output, restrained planar moves, tiny rotations and layer overlap. Slow virtual rostrum-camera push of at most 2 percent, no live-action camera shake. Handmade do-paper fibres, yellowed antique engraving and newsprint, sepia browns and black ink, STRONG halftone, restrained gold margin flecks, vermilion abstract seal taps once near a margin around second 4.5. Flatgraphic light, no photoreal faces. Preserve architecture, tools and exact paper appearance, no warping, no new objects, no readable text/hieroglyphs/logos/watermarks; single-scene composition, one moment only, one image, no storyboard, no grid, no split screen, no multi-panel layout. No audio or burned subtitles required. End on a settled assembled scene.
 
-Đây là prompt đoạn thử chuyển động giấy 6 giây. Timeline lời dẫn/SRT vẫn dùng ảnh mỗi cảnh12giây; khi dựng phim, khớp lại thời lượng clip với giọng đọc.
+Đây là prompt đoạn thử chuyển động giấy 6 giây. Timeline lời dẫn/SRT vẫn dùng ảnh mỗi cảnh12 giây; khi dựng phim, khớp lại thời lượng clip với giọng đọc.
 
 ### Cảnh 16 — Từ ngắm nhìn đến đo đạc
 
@@ -427,7 +427,7 @@ Single 1880s Giza surveying scene. A large ragged engraved-paper silhouette of t
 
 Six-second paper-collage animation, 16:9. Preserve the printed shapes and every historic object. 0–1s: the limestone-ground paper strip slides upward by a few pixels. 1–3s: the large pyramid engraving scrap settles inward with a subtle one-degree pivot around its lower edge. 2–5s: surveyor and tripod cutout translate together a tiny distance left, like a hand repositioning an attached card; the brass instrument remains rigid, limbs do not morph. 4–6s: the abstract red seal lands once on the outer margin, then everything holds. Flat fixed camera, twelve-pose-per-second stop-motion paper cadence, tiny paper-contact shadows, no depth-of-field, no laser rays, no newly generated writing.
 
-Đây là prompt đoạn thử chuyển động giấy 6 giây. Timeline lời dẫn/SRT vẫn dùng ảnh mỗi cảnh12giây; khi dựng phim, khớp lại thời lượng clip với giọng đọc.
+Đây là prompt đoạn thử chuyển động giấy 6 giây. Timeline lời dẫn/SRT vẫn dùng ảnh mỗi cảnh12 giây; khi dựng phim, khớp lại thời lượng clip với giọng đọc.
 
 ### Cảnh 17 — Nhật ký từ cảng cổ
 
@@ -453,7 +453,7 @@ One present-day conservation-workbench scene concerning fragile papyri excavated
 
 Six-second paper-collage animation, 16:9. Animate only the assembled graphic paper layers, not the delicate historical material itself. 0–2s: the entire conservation backing-card layer enters from the lower edge with its illustrated papyrus fragments firmly attached and unchanged. 2–4s: the engraved gloved-hand paper cutouts settle by two or three pixels beside the card; do not curl, tear, shuffle or touch individual papyrus fibres, and keep all printed ink marks static and illegible. 4–5s: the separate magnifier cutout pivots very slightly at its pasted end. 5–6s: a little outer-margin vermilion seal taps down and the scene holds. Fixed flat notebook viewpoint, tactile restrained twelve-pose-per-second paper motion, no added text or switch to ancient writer.
 
-Đây là prompt đoạn thử chuyển động giấy 6 giây. Timeline lời dẫn/SRT vẫn dùng ảnh mỗi cảnh12giây; khi dựng phim, khớp lại thời lượng clip với giọng đọc.
+Đây là prompt đoạn thử chuyển động giấy 6 giây. Timeline lời dẫn/SRT vẫn dùng ảnh mỗi cảnh12 giây; khi dựng phim, khớp lại thời lượng clip với giọng đọc.
 
 ### Cảnh 18 — Khoảng rỗng được thấy bằng muon
 
@@ -479,7 +479,7 @@ Single present-day noninvasive-research scene within an undecorated limestone pa
 
 Six-second paper-collage animation, 16:9. Keep this one modern detector-in-limestone-passage scene accurate and calm. 0–1.5s: torn left and right stone-print strips slide into their pasted overlap positions, preserving the same passage geometry. 1.5–3s: the rectangular detector paper cutout slides only a few pixels and rests with its cables still fixed. 3–4.5s: the researcher silhouette gently rocks less than one degree as a whole paper piece, with no independent limb motion or facial morphing. 4.5–6s: a small red outer-margin seal settles once and the assembled page holds. Fixed graphic camera, twelve-pose-per-second stop-motion collage rhythm. No radiation beams, glows, see-through walls, invented chambers, treasure, instrument labels or text.
 
-Đây là prompt đoạn thử chuyển động giấy 6 giây. Timeline lời dẫn/SRT vẫn dùng ảnh mỗi cảnh12giây; khi dựng phim, khớp lại thời lượng clip với giọng đọc.
+Đây là prompt đoạn thử chuyển động giấy 6 giây. Timeline lời dẫn/SRT vẫn dùng ảnh mỗi cảnh12 giây; khi dựng phim, khớp lại thời lượng clip với giọng đọc.
 
 ### Cảnh 19 — Hành lang sau mặt Bắc
 
@@ -505,7 +505,7 @@ Single inspection-camera-like illustrative view into the Great Pyramid North Fac
 
 Six-second paper-collage animation, 16:9. Animate the ragged printed-paper borders around one unchanged illustrative North Face Corridor. 0–2s: a foreground floor strip shifts upward a few pixels; paired outer wall scraps settle inward by equal tiny amounts. 2–4s: make a minimal graphic push toward the same corridor center with separate paper-plane parallax, never extend its depth, distort the chevron ceiling or reveal another room. 4–5s: a vermilion seal taps once on the outer notebook margin, not inside the corridor. 5–6s: hold still. Tactile flat print light, discrete twelve-pose-per-second paper movement and tiny pasted-layer shadows. No people, opening door, treasure, light beams or legible marks.
 
-Đây là prompt đoạn thử chuyển động giấy 6 giây. Timeline lời dẫn/SRT vẫn dùng ảnh mỗi cảnh12giây; khi dựng phim, khớp lại thời lượng clip với giọng đọc.
+Đây là prompt đoạn thử chuyển động giấy 6 giây. Timeline lời dẫn/SRT vẫn dùng ảnh mỗi cảnh12 giây; khi dựng phim, khớp lại thời lượng clip với giọng đọc.
 
 ### Cảnh 20 — Dòng sông cũ, câu hỏi mới
 
@@ -531,7 +531,7 @@ Single present-day Giza archaeological field-research view: the surviving Great 
 
 Six-second final paper-collage shot, 16:9. 0–2s: the fore-edge torn plateau strip gently slides down to reveal the full pasted pyramid silhouette behind it. 2–4s: the modern archaeologist cutout turns as a whole flat paper piece by only one degree; keep notebook closed and body anatomy fixed. The distant cultivated field strip drifts a few pixels independently, without introducing water or an ancient river. 4–5s: a small abstract vermilion seal lands softly on the lower outer paper margin. 5–6s: hold the completed living-history page for a contemplative finish. Fixed flat notebook composition, twelve-pose-per-second paper-slide cadence and subtle contact shadows. No photographic breeze, glowing effects, time-period montage, inscriptions or underground reveals.
 
-Đây là prompt đoạn thử chuyển động giấy 6 giây. Timeline lời dẫn/SRT vẫn dùng ảnh mỗi cảnh12giây; khi dựng phim, khớp lại thời lượng clip với giọng đọc.
+Đây là prompt đoạn thử chuyển động giấy 6 giây. Timeline lời dẫn/SRT vẫn dùng ảnh mỗi cảnh12 giây; khi dựng phim, khớp lại thời lượng clip với giọng đọc.
 
 ## Thumbnail Engine
 
@@ -549,7 +549,7 @@ Giữa sa mạc, kim tự tháp Giza đã đứng hơn bốn ngàn năm. Nhưng 
 
 ## Phụ đề và Sound Design
 
-Phụ đề nằm trong `phu-de.srt`: 60 cue, ba cue cho mỗi cảnh 12 giây. Ambience, foley và chuyển cảnh đã ghi theo từng cảnh. Tránh dùng tiếng đập đá quá lớn, thêm khoảng lặng khi nêu giới hạn bằng chứng; không để hiệu ứng gây hiểu rằng phát hiện kho báu.
+Phụ đề nằm trong `collage-20/video/phu-de-film-nhap.srt`:67 cue chia theo mệnh đề, khớp mỗi cảnh12 giây của phim nháp4 phút. Ambience, foley và chuyển cảnh đã ghi theo từng cảnh. Tránh dùng tiếng đập đá quá lớn, thêm khoảng lặng khi nêu giới hạn bằng chứng; không để hiệu ứng gây hiểu rằng phát hiện kho báu.
 
 ## CapCut workflow
 
@@ -557,7 +557,7 @@ Phụ đề nằm trong `phu-de.srt`: 60 cue, ba cue cho mỗi cảnh 12 giây. 
 2. Import 20 ảnh giấy cắt dán mới trong `collage-20/images` theo số01–20. Mỗi ảnh 12 giây, tổng timeline 04:00.
 3. Thu hoặc tạo AI voice từ `loi-dan.txt`; nghe thử tên riêng và điều chỉnh nhịp. Nếu đổi thời lượng lời dẫn, cập nhật cả cảnh lẫn SRT.
 4. Thêm nhạc nền và SFX theo từng cảnh, duck nhạc khi có lời.
-5. Import `phu-de.srt`; chọn chữ rõ, tối đa hai dòng, kiểm tra hiển thị trên điện thoại.
+5. Import `collage-20/video/phu-de-film-nhap.srt`; chọn chữ rõ, tối đa hai dòng, kiểm tra hiển thị trên điện thoại.
 6. Thêm dissolve ngắn khoảng 0,3–0,5 giây ở đúng vị trí, không thay đổi tổng thời lượng.
 7. Dùng chuyển động trượt, xoay nhẹ và chồng lớp giấy theo motion prompt của từng cảnh. Khi cần các lớp chuyển động độc lập, tách chủ thể thành PNG có nền trong suốt như mẫu trong `collage/assets`; 20 PNG của bộ mới là ảnh ghép hoàn chỉnh.
 8. Thêm headline thumbnail ở hậu kỳ; export H.264, 1080p, kiểm tra một lượt giọng/phụ đề trước khi đăng.
