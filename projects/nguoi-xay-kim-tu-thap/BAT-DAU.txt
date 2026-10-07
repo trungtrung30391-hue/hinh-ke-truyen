@@ -1,0 +1,14 @@
+NGƯỜI AI CẬP ĐÃ XÂY KIM TỰ THÁP NHƯ THẾ NÀO?
+
+20 cảnh, mỗi cảnh 12 giây, video dự kiến 04:00, tỷ lệ 16:9.
+
+images/: 20 ảnh PNG riêng, đánh số 01–20.
+kich-ban-20-canh.md: nội dung từng cảnh, prompt ảnh, motion prompt, giọng đọc, âm thanh, thumbnail và nguồn tham khảo.
+loi-dan.txt: lời dẫn tiếng Việt để thu hoặc tạo giọng.
+phu-de.srt: 60 cue phụ đề trên timeline dự kiến; chưa đồng bộ với bản thu âm thực tế.
+prompts/: 20 prompt ảnh riêng.
+thumbnail-prompt.txt: prompt để tạo thumbnail; headline thêm ở hậu kỳ.
+
+DỰNG NHANH: import ảnh theo thứ tự trong CapCut; đặt mỗi ảnh 12 giây; thêm giọng đọc, nhạc/SFX và phụ đề; pan/zoom nhẹ; kiểm tra lời và cập nhật timeline/SRT nếu bản thu có thời lượng khác.
+
+Ảnh do AI tạo để minh họa, không phải ảnh tư liệu khảo cổ. Dốc và một số chi tiết công trường là tái dựng giả thuyết. Các mốc khám phá hiện đại dùng nghiên cứu đã biết đến năm 2024; chưa kiểm chứng tin mới năm 2025–2026.
