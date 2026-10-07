@@ -1,0 +1,8 @@
+REFERENCE IMAGE: images/19-hanh-lang-mat-bac.png
+SCENE: 19 — Hành lang sau mặt Bắc
+CONTEXT: Documentary approximation of the short North Face Corridor inside Great Pyramid, rough limestone floor, chevron gabled stone ceiling, narrow approximately two-metre-wide passage seen from a tiny inspection-camera viewpoint, no people inside, no treasure, no decorated door, geometry presented as illustrative not a survey measurement. Historical setting: Modern observation of North Face Corridor, Great Pyramid.
+
+IMAGE-TO-VIDEO PROMPT (ENGLISH):
+Use the supplied image as the exact visual reference and first frame. Generate a six-second, horizontal 16:9 documentary shot. Preserve the original composition, warm sand and sepia palette, lighting direction, archival surface texture, historical clothing and objects. Animate only elements already visible in the reference. Preserve human identities, facial features, anatomy, hand shapes, object counts and spatial relationships. Use low motion intensity and a smooth camera path. Keep architecture rigid and all stone edges geometrically consistent. No new faces, people, objects, text, captions, logos or watermarks; no fantasy technology, face morphing, deformed hands, melting architecture, flicker, sudden camera shake or abrupt cuts. Do not animate any printed-paper or archival texture as physical rippling.
+
+This is an illustrative approximation of the documented North Face Corridor, not a survey measurement. Use a tiny inspection-camera movement of only a few centimetres along the existing view. Any apparent light variation comes only from camera perspective under the existing lamp. The chevron ceiling, walls and rough floor remain rigid. No doorway opens; no people, hidden chamber or treasure appear.

@@ -1,0 +1,8 @@
+REFERENCE IMAGE: images/04-kim-tu-thap-cong.png
+SCENE: 04 — Những lần thử của Sneferu
+CONTEXT: One view of the Bent Pyramid at Dahshur in ancient Egypt, accurate change from steeper lower slope to shallower upper slope, pale limestone casing, arid horizon, do not include the Red Pyramid or any second pyramid in this image. Historical setting: Sneferu era, twenty-sixth century BCE.
+
+IMAGE-TO-VIDEO PROMPT (ENGLISH):
+Use the supplied image as the exact visual reference and first frame. Generate a six-second, horizontal 16:9 documentary shot. Preserve the original composition, warm sand and sepia palette, lighting direction, archival surface texture, historical clothing and objects. Animate only elements already visible in the reference. Preserve human identities, facial features, anatomy, hand shapes, object counts and spatial relationships. Use low motion intensity and a smooth camera path. Keep architecture rigid and all stone edges geometrically consistent. No new faces, people, objects, text, captions, logos or watermarks; no fantasy technology, face morphing, deformed hands, melting architecture, flicker, sudden camera shake or abrupt cuts. Do not animate any printed-paper or archival texture as physical rippling.
+
+Use a restrained camera arc of at most three degrees to show the Bent Pyramid lower and upper slope. Only a little ground-level sand drifts in the breeze. Maintain the characteristic change in slope perfectly throughout. The pyramid and horizon stay fixed; do not reveal or create a second pyramid.

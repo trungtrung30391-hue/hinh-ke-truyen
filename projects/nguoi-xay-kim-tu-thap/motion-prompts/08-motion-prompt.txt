@@ -1,0 +1,8 @@
+REFERENCE IMAGE: images/08-thuyen-cho-da.png
+SCENE: 08 — Đường thủy của những khối đá
+CONTEXT: Plausible ancient Egyptian wooden transport boat with a modest securely tied limestone cargo arriving at a Nile-side landing during Khufu era, organized crew using ropes, low viewpoint at water level, not a modern ship, no huge impossible stack of stones. Historical setting: Khufu era, twenty-sixth century BCE.
+
+IMAGE-TO-VIDEO PROMPT (ENGLISH):
+Use the supplied image as the exact visual reference and first frame. Generate a six-second, horizontal 16:9 documentary shot. Preserve the original composition, warm sand and sepia palette, lighting direction, archival surface texture, historical clothing and objects. Animate only elements already visible in the reference. Preserve human identities, facial features, anatomy, hand shapes, object counts and spatial relationships. Use low motion intensity and a smooth camera path. Keep architecture rigid and all stone edges geometrically consistent. No new faces, people, objects, text, captions, logos or watermarks; no fantasy technology, face morphing, deformed hands, melting architecture, flicker, sudden camera shake or abrupt cuts. Do not animate any printed-paper or archival texture as physical rippling.
+
+At water level, track the camera slowly beside the existing ancient wooden cargo boat. The boat drifts forward only a short distance with a slight natural buoyant sway. Small river ripples move along its hull. Existing crew gently steady a visible rope. Every tied limestone block remains securely fixed to the boat with no sliding or floating.

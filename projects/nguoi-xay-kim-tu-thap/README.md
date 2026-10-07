@@ -43,3 +43,17 @@ Trong ZIP, mở thư mục `projects/nguoi-xay-kim-tu-thap` để lấy ảnh v�
 Ảnh được tạo bằng AI để minh họa, không phải ảnh khảo cổ hay bản tái dựng đã được xác minh. Cảnh đường dốc là một **giả thuyết** về cách nâng đá; quy trình dựng Đại Kim tự tháp vẫn còn điểm chưa thống nhất.
 
 Phần khám phá hiện đại dùng các mốc công bố đến **năm 2024**: nhật ký Merer, khoảng rỗng đo bằng muon, hành lang mặt Bắc và nghiên cứu nhánh sông Ahramat. Chưa kiểm chứng cập nhật năm 2025–2026. Xem nguồn tham khảo và giới hạn trong [kịch bản](kich-ban-20-canh.md#kiểm-chứng-và-giới-hạn).
+
+
+## Thử ảnh động
+
+Mẫu dưới đây dài 8 giây, tạo chuyển động máy quay zoom nhẹ trên ảnh Giza. Nhân vật và cảnh vật trong mẫu vẫn đứng yên; đây chưa phải video AI tạo chuyển động của người hay nước.
+
+![Mẫu GIF chuyển động máy quay](motion-preview/01-camera-demo.gif)
+
+- [Mở ảnh động GIF](motion-preview/01-camera-demo.gif)
+- [Tải clip MP4 mẫu 720p](motion-preview/01-camera-demo.mp4)
+- [Hướng dẫn làm cảnh chuyển động bằng AI](anh-dong-huong-dan.md)
+- [20 prompt Image to Video riêng](motion-prompts)
+
+Để thử chuyển động của người thợ, dùng ảnh cảnh09 và prompt cùng số trong công cụ Image to Video mà bạn sử dụng.

@@ -1,0 +1,8 @@
+REFERENCE IMAGE: images/06-do-dac-mat-bang.png
+SCENE: 06 — Bắt đầu từ một đường thẳng
+CONTEXT: Anonymous reconstructed Egyptian foreman, about 35, medium-brown skin, short black hair, lean build, plain undyed linen kilt, kneeling beside stretched measuring cords and wooden pegs on a level limestone foundation; no modern surveying instruments, no precise astronomical method asserted. Historical setting: Khufu era, twenty-sixth century BCE.
+
+IMAGE-TO-VIDEO PROMPT (ENGLISH):
+Use the supplied image as the exact visual reference and first frame. Generate a six-second, horizontal 16:9 documentary shot. Preserve the original composition, warm sand and sepia palette, lighting direction, archival surface texture, historical clothing and objects. Animate only elements already visible in the reference. Preserve human identities, facial features, anatomy, hand shapes, object counts and spatial relationships. Use low motion intensity and a smooth camera path. Keep architecture rigid and all stone edges geometrically consistent. No new faces, people, objects, text, captions, logos or watermarks; no fantasy technology, face morphing, deformed hands, melting architecture, flicker, sudden camera shake or abrupt cuts. Do not animate any printed-paper or archival texture as physical rippling.
+
+Make a slow close camera push toward the existing taut measuring cord. The kneeling foreman makes one tiny careful adjustment to the already visible wooden peg, keeping fingers, cord and hand positions coherent. Linen flutters lightly. The foundation and every other peg remain fixed; do not introduce a surveying method or new instrument.

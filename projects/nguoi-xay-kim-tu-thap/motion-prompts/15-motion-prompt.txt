@@ -1,0 +1,8 @@
+REFERENCE IMAGE: images/15-giza-qua-thoi-gian.png
+SCENE: 15 — Kỳ quan chưa từng biến mất
+CONTEXT: One nineteenth-century traveler wearing plausible period clothing standing near the weathered Great Pyramid at Giza, one moment only, old desert path and weathered limestone, no modern cars or contemporary tourists, no flashback overlay or blended eras. Historical setting: Nineteenth century Giza.
+
+IMAGE-TO-VIDEO PROMPT (ENGLISH):
+Use the supplied image as the exact visual reference and first frame. Generate a six-second, horizontal 16:9 documentary shot. Preserve the original composition, warm sand and sepia palette, lighting direction, archival surface texture, historical clothing and objects. Animate only elements already visible in the reference. Preserve human identities, facial features, anatomy, hand shapes, object counts and spatial relationships. Use low motion intensity and a smooth camera path. Keep architecture rigid and all stone edges geometrically consistent. No new faces, people, objects, text, captions, logos or watermarks; no fantasy technology, face morphing, deformed hands, melting architecture, flicker, sudden camera shake or abrupt cuts. Do not animate any printed-paper or archival texture as physical rippling.
+
+Make a slow forward camera move from behind the existing nineteenth-century traveler. The traveler holds the original pose with subtle breathing and a light cloak or garment flutter. A faint amount of dust drifts close to the ground. Preserve the period clothing and weathered pyramid; no transition between historical eras or changing architecture.

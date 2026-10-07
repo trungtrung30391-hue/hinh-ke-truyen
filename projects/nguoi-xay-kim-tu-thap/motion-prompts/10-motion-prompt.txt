@@ -1,0 +1,8 @@
+REFERENCE IMAGE: images/10-gia-thuyet-duong-doc.png
+SCENE: 10 — Bài toán nâng đá
+CONTEXT: One cautious hypothetical straight low earthen ramp beside an incomplete Great Pyramid limestone core at Giza, small crew pulling one block a short distance uphill, only one ramp model shown, realistic proportions, not a complete ramp reaching the summit, not a cutaway or explanatory diagram. Historical setting: Khufu era, explicitly one hypothetical ramp model.
+
+IMAGE-TO-VIDEO PROMPT (ENGLISH):
+Use the supplied image as the exact visual reference and first frame. Generate a six-second, horizontal 16:9 documentary shot. Preserve the original composition, warm sand and sepia palette, lighting direction, archival surface texture, historical clothing and objects. Animate only elements already visible in the reference. Preserve human identities, facial features, anatomy, hand shapes, object counts and spatial relationships. Use low motion intensity and a smooth camera path. Keep architecture rigid and all stone edges geometrically consistent. No new faces, people, objects, text, captions, logos or watermarks; no fantasy technology, face morphing, deformed hands, melting architecture, flicker, sudden camera shake or abrupt cuts. Do not animate any printed-paper or archival texture as physical rippling.
+
+This scene depicts ONE HYPOTHETICAL low-ramp construction model, not an established reconstruction of Khufu construction. Make a slow side dolly while the existing crew advances the single sledge-mounted block only a few centimetres uphill. Keep visible ropes taut and feet grounded. The ramp, incomplete pyramid and all other stones remain rigid and unchanged. No flying blocks, rapid building, new ramp sections or ramp extending to the summit.

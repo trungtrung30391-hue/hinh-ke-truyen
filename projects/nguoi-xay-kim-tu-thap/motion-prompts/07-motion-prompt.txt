@@ -1,0 +1,8 @@
+REFERENCE IMAGE: images/07-khai-thac-da.png
+SCENE: 07 — Đá đến từ đâu?
+CONTEXT: Single limestone quarry near Giza during Khufu era, a worker with simple copper tools and stone hammer beside a partly separated limestone block, visible cut channels and stone dust, pale locally quarried limestone only, realistic tool scale; do not show copper effortlessly cutting granite. Historical setting: Khufu era, twenty-sixth century BCE.
+
+IMAGE-TO-VIDEO PROMPT (ENGLISH):
+Use the supplied image as the exact visual reference and first frame. Generate a six-second, horizontal 16:9 documentary shot. Preserve the original composition, warm sand and sepia palette, lighting direction, archival surface texture, historical clothing and objects. Animate only elements already visible in the reference. Preserve human identities, facial features, anatomy, hand shapes, object counts and spatial relationships. Use low motion intensity and a smooth camera path. Keep architecture rigid and all stone edges geometrically consistent. No new faces, people, objects, text, captions, logos or watermarks; no fantasy technology, face morphing, deformed hands, melting architecture, flicker, sudden camera shake or abrupt cuts. Do not animate any printed-paper or archival texture as physical rippling.
+
+Track the camera gently sideways a short distance. An existing quarry worker makes one small controlled tapping action with the already visible hand tool against limestone. A very small amount of loose surface dust settles. The partly separated stone block remains intact and stationary; no spectacular fractures or cutting through granite.
